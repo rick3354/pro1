@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb1e49bf.css",
+    "main.js": "/static/js/main.1a45c41a.js",
+    "static/js/787.19728118.chunk.js": "/static/js/787.19728118.chunk.js",
+    "static/media/hand_waving_made_by_ali_lashkari.png": "/static/media/hand_waving_made_by_ali_lashkari.99ee32e6bc46f1389e05.png",
+    "static/media/Ali lashkari.jpg": "/static/media/Ali lashkari.41437a25b48a66e9f822.jpg",
+    "static/media/pngegg.png": "/static/media/pngegg.166865dacb77d214f485.png",
+    "static/media/react-javascript-js-framework-facebook-svgrepo-com.svg": "/static/media/react-javascript-js-framework-facebook-svgrepo-com.abf1cf2cd03750fd511f.svg",
+    "static/media/sass-svgrepo-com.svg": "/static/media/sass-svgrepo-com.eebb8c7d36e22f3f6eea.svg",
+    "static/media/css3-logo-svgrepo-com.svg": "/static/media/css3-logo-svgrepo-com.760a170789bfa4b7e23f.svg",
+    "static/media/adobe-xd-svgrepo-com.svg": "/static/media/adobe-xd-svgrepo-com.f5ab25f3462b71021f3d.svg",
+    "static/media/adobe-illustrator-svgrepo-com.svg": "/static/media/adobe-illustrator-svgrepo-com.bc6bf2065f2fc8c98aec.svg",
+    "static/media/adobe-photoshop-svgrepo-com.svg": "/static/media/adobe-photoshop-svgrepo-com.60a32a915e85df0e69d9.svg",
+    "static/media/html-5-logo-svgrepo-com.svg": "/static/media/html-5-logo-svgrepo-com.e248da514edac2a2a66b.svg",
+    "static/media/figma-svgrepo-com.svg": "/static/media/figma-svgrepo-com.ca5353b13a347f3097c8.svg",
+    "index.html": "/index.html",
+    "main.cb1e49bf.css.map": "/static/css/main.cb1e49bf.css.map",
+    "main.1a45c41a.js.map": "/static/js/main.1a45c41a.js.map",
+    "787.19728118.chunk.js.map": "/static/js/787.19728118.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb1e49bf.css",
+    "static/js/main.1a45c41a.js"
+  ]
+}
